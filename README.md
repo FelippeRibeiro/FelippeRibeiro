@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Felipe</h1>
-<h3 align="center">Eu assisto vídeos indianos e sou calvo <br> Prometo arrumar esse perfil, depois</h3>
+<h1 align="center">Felipe Ribeiro</h1>
+<h3 align="center">Eu assisto vídeos indianos e utilizo bastante StackOverflow, mas também faço curso tecnico em Desenvolvimento de sistemas no Senai <br> Prometo arrumar esse perfil, depois</h3>
 
 
 <h3 align="left">Redes:</h3>
