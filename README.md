@@ -1,5 +1,5 @@
 <h1 align="center">Felipe Ribeiro</h1>
-<h3 align="center">Eu assisto vídeos indianos e utilizo bastante StackOverflow, mas também faço curso tecnico em Desenvolvimento de sistemas no Senai</h3>
+<h3 align="center">Tecnico em Desenvolvimento de sistemas no Senai</h3>
 
 ## 🌐 Socials:
 
