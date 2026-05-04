@@ -1,5 +1,5 @@
 <h1 align="center">Felipe Ribeiro</h1>
-<h3 align="center">Tecnico em Desenvolvimento de sistemas</h3>
+<h3 align="center">Desenvolvedorde software</h3>
 
 ## 🌐 Socials:
 
